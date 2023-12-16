@@ -1,0 +1,19 @@
+.eRest:hover {
+  transition: 0.3s all;
+  background-color: rgb(152, 79, 177);
+  border: none;
+  color: #fff;
+}
+.eStep:hover {
+  transition: 0.3s all;
+  background-color: rgb(152, 79, 177);
+  border: none;
+  color: #fff;
+}
+
+.eHistory:hover {
+  transition: 0.3s all;
+  background-color: rgb(152, 79, 177);
+  border: none;
+  color: #fff;
+}
